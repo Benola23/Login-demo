@@ -10,8 +10,6 @@ It demonstrates the basic flow of a login system, including:
 - Dashboard Page with dynamic user email  
 - Logout Page  
 
-> This demo is fully **client-side** and does **not require a backend**. It’s suitable for demonstration purposes.
-
 ---
 
 ## Features
